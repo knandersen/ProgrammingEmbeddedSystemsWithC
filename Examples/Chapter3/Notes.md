@@ -1,10 +1,12 @@
 # Notes for Chapter 3 examples
 
-I included all the source- and include-files, but the code from the book can be found in [Examples/Chapter3/Src/main.c]:
+I included all the source- and include-files, but the code from the book can be found in [Src/main.c]:
 
-[ledToggle()](Examples/Chapter3/Src/main.c#L64)
-[delay_ms()](Examples/Chapter3/Src/main.c#L75)
-[main()](Examples/Chapter3/Src/main.c#L88)
+[ledToggle()](Src/main.c#L64)
+
+[delay_ms()](Src/main.c#L75)
+
+[main()](Src/main.c#L88)
 
 I tried to stay as true to the code from the book. However, I couldn't see a reason to re-write `ledInit()` since that's all taken care of in a much different way by `MX_GPIO_Init()`, which was provided by the boilerplate project from STM32CubeIDE
 
