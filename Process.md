@@ -71,6 +71,8 @@ With this I could finally flash the board using the bin-file:
 
 And just like that, the first hello world example from `Chapter 3` was done!
 
+For now, I'm using the dongle since it's easy to flip a switch to toggle bootloader-mode. It's annoying to have to flip the switch and eject/connect the dongle every time I need to flash the micro. Hoping to sort out the automated flashing soon.
+
 # 05.03.2020
 
 Added this document and Chapter 3 examples tonight. 
