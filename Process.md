@@ -70,3 +70,7 @@ With this I could finally flash the board using the bin-file:
     File downloaded successfully
 
 And just like that, the first hello world example from `Chapter 3` was done!
+
+# 05.03.2020
+
+Added this document and Chapter 3 examples tonight. As I discovered that the two main functions written in the examples were already provided by the boilerplate-project I decided to write [notes](Examples/Chapter3/Notes.md) to allow readers to make their own choice whether they want to write everything themselves, or take advantage of the convenient functions already provided.
