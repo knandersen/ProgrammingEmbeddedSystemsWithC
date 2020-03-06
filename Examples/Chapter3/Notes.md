@@ -1,6 +1,6 @@
 # Notes for Chapter 3 examples
 
-I included all the source- and include-files, but the code from the book can be found in <Src/main.c>:
+I included all the source- and include-files, but the code from the book can be found in [Src/main.c](Src/main.c):
 
 [ledToggle()](Src/main.c#L64)
 
