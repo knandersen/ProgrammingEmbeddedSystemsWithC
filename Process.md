@@ -75,10 +75,4 @@ And just like that, the first hello world example from `Chapter 3` was done!
 
 Added this document and Chapter 3 examples tonight. 
 
-The actual code for this example is in [Examples/Chapter3/Src/main.c]:
-
-[ledToggle()](Examples/Chapter3/Src/main.c#L64)
-[delay_ms()](Examples/Chapter3/Src/main.c#L75)
-[main()](Examples/Chapter3/Src/main.c#L88)
-
 As I discovered that the two main functions written in the examples were already provided by the boilerplate-project, I decided to write [notes](Examples/Chapter3/Notes.md) to allow readers to make their own choice whether they want to write everything themselves, or take advantage of the convenient functions already provided.
